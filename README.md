@@ -1,4 +1,4 @@
-# Investigating_Robustness_of_VLMS_using_LLMs
+# Investigating Robustness of VLMS using LLMs
 -  We address the challenge of out-of-distribution (OOD) robustness in vision-language models (VLMs) for visual question-answering (VQA) tasks.
 
 -  Current state-of-the-art VLMs demonstrate remarkable capabilities in answering visual questions, nearly matching human performance on benchmark datasets.
